@@ -31,3 +31,12 @@ class Lab02
 
     }
 }
+
+// กำหนดค่า Learning Rate
+//float learningRate = 0.01f;
+
+// สร้าง optimizer
+//var optimizer = tf.optimizers.SGD(learningRate);
+
+//อยู่ใต้ var grades
+//optimizer.apply_gradients(zip(grads, new Variable[] { W, b }));
